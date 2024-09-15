@@ -2,7 +2,7 @@
 
 \begin{table}[]
 \begin{tabular}{ll}
-${\LARGE\textrm{\color{royalblue}EsbrinaChain}}$ & <sub><sup>${\textrm{\color{royalblue}(By QDJ - esbrinachain@gmail.com)}}$</sup></sub>
+Text1 & Text2
 \end{tabular}
 \end{table}
 
